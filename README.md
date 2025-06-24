@@ -16,3 +16,5 @@
 | Testar operação offline (failover por máquina) | Simular perda de rede, capturar apontamentos, validar reprocessamento automático ao restabelecer conexão. |
 | Validar integração SAP x Cronos x etiquetas físicas | Conferência cruzada de informações entre sistemas e leitura de etiquetas. |
 | Documentar a solução final | Criar manual técnico com instruções de operação, fallback, manutenção e pontos de integração. |
+
+Developed by eonferraz
