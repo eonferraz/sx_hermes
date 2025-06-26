@@ -1,3 +1,6 @@
+
+Escopo geral da satividades
+
 | **Tarefa** | **Detalhamento Técnico** |
 |-----------|---------------------------|
 | Alterar o software Cronos para controle de lote e serialização | Implementar estrutura de dados que permita registrar e rastrear lote e número de série por item; ajustar telas e banco de dados. |
